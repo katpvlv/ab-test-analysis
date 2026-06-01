@@ -1,5 +1,9 @@
 # A/B-тест: анализ результатов
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katpvlv/ab-test-analysis/blob/main/AB_test.ipynb)
+
+**👉 [Открыть ноутбук в Google Colab](https://colab.research.google.com/github/katpvlv/ab-test-analysis/blob/main/AB_test.ipynb)** — посмотреть анализ онлайн без установки Jupyter
+
 Тестовое задание на позицию Data Analyst.
 Период теста: 01.01.2025 – 28.02.2025.
 
